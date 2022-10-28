@@ -1,2 +1,1 @@
-﻿  Source.cpp
-  test.vcxproj -> C:\Users\ahmed\OneDrive\Desktop\test\Debug\test.exe
+﻿LINK : fatal error LNK1168: cannot open C:\Users\ahmed\OneDrive\Desktop\test\Debug\test.exe for writing
