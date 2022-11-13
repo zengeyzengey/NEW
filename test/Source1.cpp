@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main()
+void main()
 {
-	cout << "ahmed" << endl;
+	cout << "ahmed";
 }

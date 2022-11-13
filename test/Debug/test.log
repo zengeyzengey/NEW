@@ -1,1 +1,2 @@
-﻿LINK : fatal error LNK1168: cannot open C:\Users\ahmed\OneDrive\Desktop\test\Debug\test.exe for writing
+﻿Source1.obj : error LNK2005: _main already defined in Source.obj
+C:\Users\ahmed\OneDrive\Desktop\test\Debug\test.exe : fatal error LNK1169: one or more multiply defined symbols found
